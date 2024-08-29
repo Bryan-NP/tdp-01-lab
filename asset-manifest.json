@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tdp-01-lab/static/css/main.a61fa2b2.chunk.css",
+    "main.js": "/tdp-01-lab/static/js/main.2099c485.chunk.js",
+    "main.js.map": "/tdp-01-lab/static/js/main.2099c485.chunk.js.map",
+    "runtime~main.js": "/tdp-01-lab/static/js/runtime~main.a13152dc.js",
+    "runtime~main.js.map": "/tdp-01-lab/static/js/runtime~main.a13152dc.js.map",
+    "static/js/2.990dd9f0.chunk.js": "/tdp-01-lab/static/js/2.990dd9f0.chunk.js",
+    "static/js/2.990dd9f0.chunk.js.map": "/tdp-01-lab/static/js/2.990dd9f0.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/tdp-01-lab/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/tdp-01-lab/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/tdp-01-lab/index.html",
+    "precache-manifest.2e60e1e8a95c77fcf0cb0288d1a3e7b8.js": "/tdp-01-lab/precache-manifest.2e60e1e8a95c77fcf0cb0288d1a3e7b8.js",
+    "service-worker.js": "/tdp-01-lab/service-worker.js",
+    "static/css/main.a61fa2b2.chunk.css.map": "/tdp-01-lab/static/css/main.a61fa2b2.chunk.css.map",
+    "static/media/japfood.css": "/tdp-01-lab/static/media/japanese-food-2.86893f35.jpg"
+  }
+}
