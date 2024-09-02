@@ -1,5 +1,5 @@
-import './App.css';
-import React from 'react';
+import "./App.css";
+import React from "react";
 //import './components/japfood.css';
 //import Booking from "./components/Booking";
 //import JapFood from "./components/JapFood";
@@ -10,11 +10,13 @@ import React from 'react';
 //import NumberBox from './components/AlertBox';
 //import TickleBox from './components/TickleBox';
 //import Dice from './components/Dice';
-import RandomUser from './components/RandomUser';
+import RandomUser from "./components/RandomUser";
+import Users from "./components/Users";
 function App() {
   return (
     <>
-    <RandomUser />
+      <Users />
+      <RandomUser />
     </>
   );
 }
