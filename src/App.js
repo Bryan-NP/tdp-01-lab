@@ -1,24 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
-
+import React from 'react';
+//import './components/japfood.css';
+//import Booking from "./components/Booking";
+//import JapFood from "./components/JapFood";
+import DisplayMessage from './DisplayMessage';
+import SumOfTwo from './SumOfTwo';
+import ImageFrame from './ImageFrame';
+import japanFood from './Images/food/japanese-food-3.jpg';
+import NumberBox from './components/AlertBox';
+import TickleBox from './components/TickleBox';
+import Dice from './components/Dice';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <ImageFrame imageLink={japanFood}/>
+    <DisplayMessage whatever_message="Hello, World!" />
+    <SumOfTwo a={5} b={10} />
+    <NumberBox initialValue ={0}/>
+    <TickleBox />
+    <Dice />
+    </>
   );
 }
 
