@@ -2,4 +2,4 @@ const RandomUser = () => {
     return <> RandomUser</>;
 };
 
-Export default RandomUser;
+export default RandomUser;
